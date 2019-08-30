@@ -1,6 +1,6 @@
 # Chat by Vue + Webpack for SGRU 
 
-Chat bot using Azure QnA and Vue for SGRU front-end application. 
+Chat bot using Azure QnA and Vue for SGRU [front-end](https://github.com/MrKalb/sgru-vue) application. 
 
 Fork from [vue-chat](https://github.com/Coffcer/vue-chat/)
 
